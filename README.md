@@ -1,6 +1,6 @@
-OpenCV Projects with C++ and Visual Studio
+#OpenCV Projects with C++ and Visual Studio
 
-Table of Contents
+##Table of Contents
 Chapter 1 – Read Images Videos and Webcams
 Chapter 2 – Basic Functions
 Chapter 3 – Resize and Crop
@@ -12,11 +12,11 @@ Chapter 8 – Face Detection
 Project 1 – Virtual Paint
 Project 2 – Document Scanner
 Project 3 – License Plate Recognition
-Chapters
-Chapter 1 – Read Images Videos and Webcams
+##Chapters
+###Chapter 1 – Read Images Videos and Webcams
 Learn to read images, videos, and access webcams.
 Implement basic functions using OpenCV.
-Chapter 2 – Basic Functions
+###Chapter 2 – Basic Functions
 Explore essential functions in computer vision.
 Develop a strong foundation for subsequent projects.
 Chapter 3 – Resize and Crop
