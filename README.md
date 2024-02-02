@@ -65,12 +65,6 @@ Revolutionize document handling with an intelligent document scanner. Extract an
 
 Enhance security and automation using license plate recognition. Implement computer vision algorithms for smart surveillance and traffic management.
 
-## Getting Started
-
-1. Clone the repository.
-2. Open the projects in Visual Studio.
-3. Ensure OpenCV is properly configured.
-4. Run the projects and explore the code.
 
 ## Dependencies
 
